@@ -1,0 +1,23 @@
+.h1 { 
+    color: bisque;
+}
+
+.h2 { 
+    color: blue;
+}
+
+.h3 { 
+    color: rgb(255, 196, 245);
+}
+
+.h4 { 
+    color: rgb(196, 255, 232);
+}
+
+.h5 { 
+    color: rgb(255, 215, 196);
+}
+
+.h6 { 
+    color: rgb(255, 196, 228);
+}
